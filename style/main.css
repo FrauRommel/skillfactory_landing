@@ -175,6 +175,10 @@ header, footer {
     margin-right: 47px;
 }
 
+.header-navigation-link:hover {
+    color: #E3B873;
+}
+
 .header-navigation-link {
     text-decoration: none;
     color: #ffffff
